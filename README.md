@@ -29,29 +29,31 @@ cd Data-Structure-and-Algorithm-in-Python
 The repository is organized as follows:
 
 ```bash
-dsa-python/
+Data-Structure-and-Algorithm-in-Python/
 │
-├── data_structures/
-│   ├── linked_list.py
-│   ├── stack.py
-│   ├── queue.py
-│   ├── tree.py
-│   └── graph.py
+├── Basic Syntax/
+│  └── example_usage.py  
 │
-├── algorithms/
-│   ├── sorting/
-│   │   ├── bubble_sort.py
-│   │   ├── merge_sort.py
-│   │   └── quick_sort.py
-│   ├── searching/
-│   │   ├── binary_search.py
-│   │   └── linear_search.py
-│   └── dynamic_programming/
-│       ├── knapsack.py
-│       └── fibonacci.py
+├── Build-in Data Structure/
+│   └──Dictonary/
+│   └── List/
+│   └── Set/
+│   └── Tuple/   
 │
-├── examples/
-│   └── example_usage.py
+├── User-defined Data Structure/      
+│   ├── Linear Data Structure
+│   │    └── Array
+│   │    └── String
+│   │    └──  Stack
+│   │    └── Queue
+│   │    └── LinkedList
+│   │    └──  matrix
+│   │
+│   └── Non- Linear Data Structure
+│         └── Binary tree
+│         └── Graph
+│         └── Heap
+│         └── Hash table
 │
 └── README.md
 
